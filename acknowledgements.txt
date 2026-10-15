@@ -1,0 +1,3 @@
+Video: Quadcopters Gone Wild: https://github.com/bu-cds-omds/dx704-examples/blob/main/week07/video_quadcopters_gone_wild.ipynb
+Video: Simulating a Quadcopter with Different Cost Parameters: https://github.com/bu-cds-omds/dx704-examples/blob/main/week07/video_simulating_a_quadcopter_with_different_cost_parameters.ipynb
+Video: Visualizing Linear Quadratic Regulators: https://github.com/bu-cds-omds/dx704-examples/blob/main/week07/video_visualizing_linear_quadratic_regulators.ipynb
